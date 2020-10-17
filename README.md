@@ -1,3 +1,6 @@
+# DEPRECATED
+This package is now developed in https://github.com/dvelasquez/carbon-tools
+
 # bytes-to-co2
 Calculate the **co2 footprint** (carbon dioxide released to the atmosphere) 
 of transmitting an `x` amount of bytes over the internet.
